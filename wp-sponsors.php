@@ -16,13 +16,15 @@
  * Plugin Name:       Sponsors
  * Plugin URI:        http://studioespresso.co
  * Description:       Add links and logo's for your sponsors/partners/etc to your sidebars and posts with our widget and shortcode.
- * Version:           2.1.0
+ * Version:           2.1.0.1
  * Author:            Studio Espresso
  * Author URI:        http://studioespresso.co
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       wp-sponsors
  * Domain Path:       /languages
+ * GitHub Plugin URI: https://github.com/peppermintpig/wp-sponsors
+ * GitHub Branch:     website
  */
 
 // If this file is called directly, abort.
